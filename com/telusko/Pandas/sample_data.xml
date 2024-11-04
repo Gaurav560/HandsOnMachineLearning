@@ -1,0 +1,27 @@
+<data>
+    <record>
+        <Name>Aarav</Name>
+        <Age>24</Age>
+        <Score>85</Score>
+    </record>
+    <record>
+        <Name>Priya</Name>
+        <Age>27</Age>
+        <Score>90</Score>
+    </record>
+    <record>
+        <Name>Rohan</Name>
+        <Age>22</Age>
+        <Score>78</Score>
+    </record>
+    <record>
+        <Name>Sneha</Name>
+        <Age>32</Age>
+        <Score>88</Score>
+    </record>
+    <record>
+        <Name>Vikram</Name>
+        <Age>29</Age>
+        <Score>95</Score>
+    </record>
+</data>
